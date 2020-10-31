@@ -2,7 +2,7 @@
 
 - 💳 I help developers integrate with Stripe
 - 🧪 I contribute to [Stripe Samples](/stripe-samples), a suite of repos with full end-to-end integration examples
-- 🥞 My preferred stack is Rails, and I also like playing with Laravel. I enjoy working with ruby, python, javascript, php, c#, go, and java.
+- 🥞 My preferred stack is Rails; I also like playing with Laravel. I enjoy working with ruby, python, javascript, php, c#, go, and java.
 - 🌱 I'm currently learning React and Vue
 - ⌨️ Vim fan
 
