@@ -1,4 +1,4 @@
-### Hi I'm CJ 
+### Welcome! 
 
 - 💳 I help developers integrate with Stripe
 - 🧪 I contribute to [Stripe Samples](/stripe-samples), a suite of repos with full end-to-end integration examples
