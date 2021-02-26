@@ -1,7 +1,7 @@
  <a href="https://cjav.dev"><img src="./thumb.png" width="360px" style="padding: 20px"></a>
  
 - 💳 Helping developers integrate Stripe
-- 🧪 Contributing to [Stripe Samples](/stripe-samples)
+- 🧪 Contributing to [Stripe Samples](https://github.com/stripe-samples)
 - 🥞 Building the same thing over and over in different languages: ruby, python, javascript, php, c#, go, and java.
 - 🌱 Learning about video production
 - ⌨️ Medium-sized `vim` fan
